@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Chatter to Speech
 // @namespace    https://www.leitstellenspiel.de/
-// @version      1.7
+// @version      1.8
 // @description  Einsatzfunk zu Sprache
 // @author       LennardTFD
 // @match        https://www.leitstellenspiel.de/
